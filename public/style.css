@@ -58,6 +58,11 @@ nav a:hover {
   text-shadow: 0 0 8px #00d4ff;
 }
 
+nav a:active {
+  color: #ffffff;
+  text-shadow: 0 0 8px #00d4ff;
+}
+
 section {
   background: rgba(255, 255, 255, 0.05);
   padding: 30px;
