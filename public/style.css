@@ -63,6 +63,10 @@ nav a:active {
   text-shadow: 0 0 8px #00d4ff;
 }
 
+nav a:visited {
+  color: #00d4ff
+}
+
 section {
   background: rgba(255, 255, 255, 0.05);
   padding: 30px;
@@ -93,6 +97,16 @@ img.img {
   padding: 10px;
   border-radius: 15px;
   box-shadow: #48cae4 0 0 15px;
+}
+
+a.vid {
+  color: rgb(59, 244, 241);
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.vid:visited {
+  color:rgb(77, 190, 242);
 }
 
 table {
