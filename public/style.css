@@ -88,8 +88,11 @@ ul {
 
 img.img {
   float: right;
-  padding: 20px;
+  margin-top: 10px;
+  margin-left: 15px;
+  padding: 10px;
   border-radius: 20px;
+  box-shadow: #48cae4 0 0 15px;
 }
 
 table {
